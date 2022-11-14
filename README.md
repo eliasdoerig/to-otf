@@ -19,4 +19,6 @@ Open the application and select the .ttf font. The application will automaticall
 - https://fontforge.org
 - https://py2app.readthedocs.io
 
+---
+
 <a href="https://www.buymeacoffee.com/v5fjrwvy9cT" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
