@@ -7,9 +7,9 @@ Usage:
 
 from setuptools import setup
 
-APP = ['TTF to OTF.py']
+APP = ['toOTF.py']
 DATA_FILES = []
-OPTIONS = {'iconfile': '/Users/eliasdorig/Desktop/Font/app/icon.icns'}
+OPTIONS = {'iconfile': '/Users/eliasdorig/Desktop/Font/to-otf/icon.icns'}
 
 setup(
     app=APP,
