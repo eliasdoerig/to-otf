@@ -6,7 +6,7 @@ from tkinter.messagebox import showinfo
 
 # create the root window
 root = tk.Tk()
-root.title('to OpenType')
+root.title('toOTF')
 root.resizable(False, False)
 root.geometry('300x150')
 
