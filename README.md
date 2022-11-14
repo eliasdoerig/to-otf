@@ -1,20 +1,20 @@
 ![Image of application icon](/assets/icon.png "application icon")
 
-# TTF to OTF for macOS
+# TTF to OTF
 
-«TTF to OTF» is a simple application to convert TrueType fonts (.ttf) to OpenType fonts (.otf)
+«TTF to OTF» is a simple macOS application to convert TrueType (.ttf) fonts to OpenType (.otf) fonts.
 
 ## Installation
 
-Download the last version from GitHub and move the file to your applications' folder.
+Download the latest version from GitHub and move the file to the applications folder.
 
 ## How to use
 
-Open the application and select the .ttf font. The application will automatically generate a OpenType version within the same folder.
+Open the application and select the .ttf font. The application will automatically generate an OpenType version in the same folder.
 
 ![Image of application](/assets/app.png "application")
 
-## Dependecies
+## Dependencies
 
 - https://fontforge.org
 - https://py2app.readthedocs.io
