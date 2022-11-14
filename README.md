@@ -6,7 +6,8 @@
 
 ## Installation
 
-Download the latest version from GitHub and move the file to the applications folder.
+1. Install the last version of [FontForge](https://fontforge.org)
+2. Download the latest version of «to OTF» from GitHub and move the file to the applications folder.
 
 ## How to use
 
@@ -16,8 +17,7 @@ Open the application and select font to convert. The application will automatica
 
 ## Dependencies
 
-- https://fontforge.org
-- https://py2app.readthedocs.io
+- [FontForge](https://fontforge.org)
 
 ---
 
